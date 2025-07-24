@@ -1,0 +1,113 @@
+{
+  "documents": [
+    {
+      "id": "f5_posicionamento_marca_2025",
+      "title": "Guia de Posicionamento de Marca f5 Estratégia",
+      "category": "branding",
+      "subcategory": "posicionamento",
+      "priority": "high",
+      "metadata": {
+        "created_at": "2024-06-25",
+        "version": "1.0",
+        "author": "f5 Estratégia",
+        "tags": ["posicionamento", "branding", "golden circle", "arquetipos", "puv", "comunicacao"],
+        "department": "marketing",
+        "document_type": "guia_posicionamento",
+        "company": "f5 Estratégia"
+      },
+      "sections": [
+        {
+          "section_id": "golden_circle_por_que",
+          "title": "Golden Circle - Por Que Existimos",
+          "content": "A F5 Estratégia existe para transformar conhecimento digital em negócios lucrativos, acelerando a geração de vendas e resultados concretos para empresas que buscam crescer de forma previsível e estratégica no ambiente digital. Nossa missão é ser a ponte entre o potencial do marketing digital e o crescimento real e tangível dos clientes, promovendo um impacto positivo na forma como as empresas utilizam dados e tecnologia para escalar.",
+          "keywords": ["transformar conhecimento digital", "negocios lucrativos", "acelerar vendas", "crescer previsivel", "ponte marketing digital", "crescimento real", "dados tecnologia"],
+          "context": "Propósito fundamental da f5 Estratégia baseado no Golden Circle de Simon Sinek"
+        },
+        {
+          "section_id": "golden_circle_como",
+          "title": "Golden Circle - Como Fazemos",
+          "content": "Atuamos com metodologia própria CHAVI que integra cinco pilares: Campanha (pesquisa, públicos, planejamento, criativos), Humanização (vídeos estratégicos, roteiros personalizados, oratória), Anúncios Pagos com Performance (Meta, Google, YouTube, TikTok com segmentação avançada), Vendas (monitoramento, CRM, conversão), Inteligência de Dados (insights, BI, relatórios em tempo real).",
+          "keywords": ["metodologia chavi", "cinco pilares", "segmentacao avancada", "monitoramento vendas", "inteligencia dados", "insights bi", "tempo real"],
+          "context": "Metodologia diferenciada que explica como a f5 entrega resultados"
+        },
+        {
+          "section_id": "golden_circle_o_que",
+          "title": "Golden Circle - O Que Oferecemos",
+          "content": "Oferecemos soluções completas em aceleração digital: gestão de tráfego pago (Meta e Google), implementação de CRM e RD Station, landing pages de alta conversão, peças publicitárias focadas em conversão, treinamento de vendas ao vivo, estruturação em squads especializados.",
+          "keywords": ["solucoes completas", "aceleracao digital", "trafego pago", "alta conversao", "treinamento vendas", "squads especializados"],
+          "context": "Portfolio completo de soluções oferecidas pela f5 Estratégia"
+        },
+        {
+          "section_id": "arquetipo_primario_sabio",
+          "title": "Arquétipo Primário - O Sábio",
+          "content": "Arquétipo O Sábio: busca conhecimento, entendimento e verdade; é analítico, confiável, e orientado por dados. Foca em ajudar os clientes a tomarem decisões informadas por meio da inteligência e análise. A F5 valoriza 'inteligência de dados' e 'menos achismo e mais dados', guiando clientes para resultados reais baseados em métricas e análises profundas.",
+          "keywords": ["arquetipo sabio", "conhecimento", "analitico", "confiavel", "orientado dados", "decisoes informadas", "inteligencia analise", "menos achismo"],
+          "context": "Arquétipo principal da marca que transmite autoridade e conhecimento"
+        },
+        {
+          "section_id": "arquetipo_secundario_heroi",
+          "title": "Arquétipo Secundário - O Herói",
+          "content": "Arquétipo O Herói: determinado, corajoso, busca superar desafios e transformar situações difíceis em vitórias. Focado em resultados concretos e impacto real. A F5 atua como aceleradora, enfrentando o desafio da complexidade digital para que clientes possam escalar negócios de forma previsível, entregando crescimento tangível.",
+          "keywords": ["arquetipo heroi", "determinado", "corajoso", "superar desafios", "situacoes dificeis", "resultados concretos", "impacto real", "complexidade digital", "crescimento tangivel"],
+          "context": "Arquétipo secundário que demonstra atitude e foco em resultados"
+        },
+        {
+          "section_id": "combinacao_arquetipos",
+          "title": "Combinação dos Arquétipos",
+          "content": "A combinação do Sábio com o Herói oferece um posicionamento que transmite conhecimento profundo e confiabilidade, ao mesmo tempo que demonstra atitude, determinação e foco em resultados. Essa dualidade permite que a F5 se destaque como uma marca que não só orienta estrategicamente, mas também entrega crescimento real e impactante, fortalecendo a conexão emocional e racional com o público-alvo.",
+          "keywords": ["combinacao arquetipos", "conhecimento profundo", "confiabilidade", "atitude determinacao", "orienta estrategicamente", "crescimento impactante", "conexao emocional", "conexao racional"],
+          "context": "Como a combinação dos arquétipos fortalece o posicionamento da marca"
+        },
+        {
+          "section_id": "proposta_unica_valor",
+          "title": "Proposta Única de Valor (PUV)",
+          "content": "A F5 Estratégia proporciona aceleração previsível de vendas e otimização de marketing digital para empresários estratégicos, em crescimento e iniciantes, mesmo que enfrentem falta de estrutura ou métricas claras, sem precisar de tentativas frustradas, através da metodologia CHAVI, que une inteligência de dados, humanização e performance comprovada.",
+          "keywords": ["aceleracao previsivel", "otimizacao marketing", "empresarios estrategicos", "falta estrutura", "metricas claras", "tentativas frustradas", "metodologia chavi", "inteligencia dados", "performance comprovada"],
+          "context": "Proposta única de valor que diferencia a f5 da concorrência"
+        },
+        {
+          "section_id": "elementos_chave_puv",
+          "title": "Elementos-Chave da Proposta de Valor",
+          "content": "Elementos-chave da PUV: Aceleração previsível de vendas e otimização do marketing digital, atendimento para empresários de diferentes estágios (estratégicos, em crescimento e iniciantes), metodologia exclusiva CHAVI que une dados, humanização e alta performance para resultados reais.",
+          "keywords": ["aceleracao previsivel", "otimizacao marketing", "diferentes estagios", "estrategicos crescimento iniciantes", "metodologia exclusiva", "dados humanizacao", "alta performance", "resultados reais"],
+          "context": "Pilares fundamentais que sustentam a proposta única de valor"
+        },
+        {
+          "section_id": "comunicacao_empresario_estrategico",
+          "title": "Comunicação para Empresário Estratégico",
+          "content": "Para empresários estratégicos (35-55 anos, CEO/Diretor, classe A/B, faturamento acima de R$ 300 mil/mês): comunicação técnica e orientada por dados, foco em métricas detalhadas, inovação tecnológica, crescimento sustentável. Valoriza atendimento direto, parcerias confiáveis e inteligência de dados para decisões estratégicas.",
+          "keywords": ["empresario estrategico", "comunicacao tecnica", "orientada dados", "metricas detalhadas", "inovacao tecnologica", "crescimento sustentavel", "parcerias confiaveis", "decisoes estrategicas"],
+          "context": "Como adaptar a comunicação da marca para o perfil estratégico"
+        },
+        {
+          "section_id": "comunicacao_empresario_crescimento",
+          "title": "Comunicação para Empresário em Crescimento",
+          "content": "Para empresários em crescimento (30-45 anos, sócio/gerente PME, faturamento R$ 50-300 mil/mês): comunicação focada em cases e comprovação de resultados, soluções práticas, suporte estratégico, acompanhamento próximo. Busca estruturar funil de vendas, criar previsibilidade e otimizar ferramentas.",
+          "keywords": ["empresario crescimento", "cases comprovacao", "solucoes praticas", "suporte estrategico", "acompanhamento proximo", "estruturar funil", "criar previsibilidade", "otimizar ferramentas"],
+          "context": "Adaptação da comunicação para empresários em fase de crescimento"
+        },
+        {
+          "section_id": "comunicacao_empresario_smart",
+          "title": "Comunicação para Empresário Smart",
+          "content": "Para empresários Smart (25-40 anos, pequenos empreendedores, até 5 funcionários, investimento até R$ 2 mil/mês): comunicação simples, direta e focada em resultados rápidos. Linguagem prática, sem complexidade, com foco em sobrevivência financeira, geração de caixa rápido e leads reais para fechamento imediato.",
+          "keywords": ["empresario smart", "comunicacao simples", "direta", "resultados rapidos", "linguagem pratica", "sem complexidade", "sobrevivencia financeira", "geracao caixa", "leads reais"],
+          "context": "Simplificação da comunicação para pequenos empresários com orçamento restrito"
+        },
+        {
+          "section_id": "tom_voz_marca",
+          "title": "Tom de Voz da Marca",
+          "content": "Tom de voz baseado nos arquétipos Sábio + Herói: Confiável e analítico (dados, métricas, menos achismo), Determinado e focado em resultados (aceleração, performance, crescimento), Técnico mas acessível (adapta linguagem conforme persona), Orientado por evidências (cases, números, comprovações), Direto e objetivo (sem enrolação, vai ao ponto).",
+          "keywords": ["tom voz", "confiavel analitico", "determinado focado", "tecnico acessivel", "orientado evidencias", "direto objetivo", "sem enrolacao"],
+          "context": "Definição do tom de voz que deve permear toda comunicação da marca"
+        },
+        {
+          "section_id": "posicionamento_mercado",
+          "title": "Posicionamento no Mercado",
+          "content": "Posicionamento como aceleradora digital que combina conhecimento técnico (Sábio) com execução orientada para resultados (Herói). Diferencial: metodologia proprietária CHAVI, foco em dados + humanização, atendimento segmentado por persona, parcerias estratégicas (Meta, Google, RD Station), resultados comprovados em mais de 3000 projetos.",
+          "keywords": ["aceleradora digital", "conhecimento tecnico", "execucao orientada", "metodologia proprietaria", "dados humanizacao", "atendimento segmentado", "parcerias estrategicas", "3000 projetos"],
+          "context": "Como a f5 se posiciona no mercado de marketing digital"
+        }
+      ]
+    }
+  ]
+}

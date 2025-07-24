@@ -1,0 +1,162 @@
+{
+  "documents": [
+    {
+      "id": "f5_estrategia_2024",
+      "title": "f5 Estratégia - Apresentação Institucional",
+      "category": "institucional",
+      "subcategory": "apresentacao_empresa",
+      "priority": "high",
+      "metadata": {
+        "created_at": "2024-06-25",
+        "version": "1.0",
+        "author": "f5 Estratégia",
+        "tags": ["f5", "estrategia", "marketing digital", "trafego pago", "metodologia chavi"],
+        "department": "institucional",
+        "document_type": "apresentacao",
+        "company": "f5 Estratégia"
+      },
+      "sections": [
+        {
+          "section_id": "historia_evolucao",
+          "title": "História e Evolução da f5",
+          "content": "Fundada em 2021 pelo apresentador Fernando Machado e seu sócio Arthur Botelho. É uma empresa que tem como seu core a gestão de tráfego pago. Fernando é reconhecido por seus mais de 13 anos de atuação em televisão e atual âncora do Jornal do Meio Dia do SBT em Santa Catarina.",
+          "keywords": ["fernando machado", "arthur botelho", "2021", "fundacao", "trafego pago", "sbt", "santa catarina", "historia"],
+          "context": "Informações sobre a fundação e fundadores da empresa f5 Estratégia"
+        },
+        {
+          "section_id": "socios_estrutura",
+          "title": "Sócios e Estrutura da Empresa",
+          "content": "Arthur sempre se destacou pelo seu relacionamento com os clientes e pela construção da marca, foi o primeiro Customer Success da empresa e atualmente é o Head de comunicação da f5. A empresa participa do grupo Prime Franchising, que possui amplo networking por ser incorporadora de empresas e oferecer soluções para estruturar franquias. Além dos sócios do grupo Prime, a f5 buscou no grupo Globo um profissional altamente qualificado e experiente em mídia paga e programática, desenvolvendo a estrutura interna da equipe de gestão de tráfego da f5, chamado Herick Pinho. Ele se tornou sócio da empresa e atua como diretor de Performance atualmente. A empresa é localizada em Coqueiros, Florianópolis (SC), e conta atualmente com aproximadamente 40 colaboradores.",
+          "keywords": ["arthur botelho", "customer success", "prime franchising", "herick pinho", "grupo globo", "florianopolis", "coqueiros", "40 colaboradores"],
+          "context": "Estrutura societária e localização da f5 Estratégia"
+        },
+        {
+          "section_id": "missao",
+          "title": "Missão da f5",
+          "content": "Transformar conhecimento digital em negócios lucrativos.",
+          "keywords": ["missao", "conhecimento digital", "negocios lucrativos"],
+          "context": "Missão institucional da empresa f5 Estratégia"
+        },
+        {
+          "section_id": "visao",
+          "title": "Visão da f5",
+          "content": "Acelerar vendas de 10.000 negócios, pelo canal digital, com a nossa metodologia única.",
+          "keywords": ["visao", "acelerar vendas", "10000 negocios", "canal digital", "metodologia unica"],
+          "context": "Visão de futuro e objetivos da empresa f5 Estratégia"
+        },
+        {
+          "section_id": "valores",
+          "title": "Valores da f5",
+          "content": "Os valores fundamentais da f5 são: Comprometimento, Performance, Parceria e Excelência técnica.",
+          "keywords": ["valores", "comprometimento", "performance", "parceria", "excelencia tecnica"],
+          "context": "Valores corporativos que guiam as ações da f5 Estratégia"
+        },
+        {
+          "section_id": "posicionamento",
+          "title": "Posicionamento de Mercado",
+          "content": "A f5 atua como aceleradora digital, ajudando seus clientes a melhorar processos de vendas e aproveitamento das oportunidades geradas por estratégias digitais.",
+          "keywords": ["aceleradora digital", "processos de vendas", "oportunidades", "estrategias digitais"],
+          "context": "Como a f5 se posiciona no mercado e sua proposta de valor"
+        },
+        {
+          "section_id": "servicos",
+          "title": "Serviços e Soluções Oferecidas",
+          "content": "A f5 oferece: Gestão de Tráfego Meta Ads, Gestão de Tráfego Google Ads, Implementação de CRM, Implementação RD Station Marketing (Inbound Marketing), Landing Pages de alta conversão, Peças Publicitárias (imagens e vídeos), Treinamento Ao Vivo de Vendas.",
+          "keywords": ["meta ads", "google ads", "crm", "rd station", "inbound marketing", "landing pages", "pecas publicitarias", "treinamento vendas"],
+          "context": "Lista completa dos serviços oferecidos pela f5 Estratégia"
+        },
+        {
+          "section_id": "diferenciais",
+          "title": "Diferenciais Competitivos",
+          "content": "Divisão especializada por squads com profissionais altamente qualificados, Expertise comprovada em comunicação, vendas e marketing digital, Processo rigoroso e eficiente de qualificação e acompanhamento dos leads, Metodologia própria focada em resultados reais e crescimento tangível do faturamento.",
+          "keywords": ["squads", "profissionais qualificados", "expertise", "qualificacao leads", "metodologia propria", "resultados reais"],
+          "context": "Principais diferenciais que destacam a f5 da concorrência"
+        },
+        {
+          "section_id": "metodologia_chavi_intro",
+          "title": "Metodologia CHAVI - Introdução",
+          "content": "A metodologia CHAVI da f5 estratégia é composta por cinco pilares fundamentais que guiam toda a atuação em performance digital e comercial.",
+          "keywords": ["metodologia chavi", "cinco pilares", "performance digital", "comercial"],
+          "context": "Introdução à metodologia proprietária da f5 Estratégia"
+        },
+        {
+          "section_id": "chavi_campanha",
+          "title": "CHAVI - Pilar C (Campanha)",
+          "content": "C - Campanha: Pesquisa de Mercado, Definição de Público, Planejamento Estratégico com Mapa Mental, Criativos, Copys.",
+          "keywords": ["campanha", "pesquisa mercado", "definicao publico", "planejamento estrategico", "mapa mental", "criativos", "copys"],
+          "context": "Primeiro pilar da metodologia CHAVI focado em campanhas"
+        },
+        {
+          "section_id": "chavi_humanizacao",
+          "title": "CHAVI - Pilar H (Humanização)",
+          "content": "H - Humanização: O vídeo converte e qualifica mais o lead para a compra, Curadoria de vídeos por nossos especialistas, Roteiros Personalizados, Técnicas de Oratória e Manual de Gravação.",
+          "keywords": ["humanizacao", "video", "converte", "qualifica lead", "curadoria videos", "roteiros personalizados", "oratoria", "manual gravacao"],
+          "context": "Segundo pilar da metodologia CHAVI focado em humanização através de vídeos"
+        },
+        {
+          "section_id": "chavi_anuncios",
+          "title": "CHAVI - Pilar A (Anúncios Pagos)",
+          "content": "A - Anúncios Pagos com Performance: Trabalho com as principais plataformas de anúncios (Meta, Google Ads, YouTube, TikTok) garantindo que sua empresa esteja onde seu cliente está. Meta Ads com segmentação avançada e diversos formatos. Google Ads como plataforma de alta intenção de compra com segmentação precisa.",
+          "keywords": ["anuncios pagos", "performance", "meta ads", "google ads", "youtube", "tiktok", "segmentacao avancada", "intencao compra"],
+          "context": "Terceiro pilar da metodologia CHAVI focado em anúncios pagos"
+        },
+        {
+          "section_id": "chavi_vendas",
+          "title": "CHAVI - Pilar V (Vendas)",
+          "content": "V - Vendas (Monitoramento de Performances): Geração de Leads, Oportunidades para o seu time comercial, Taxa de conversão por etapa, Acompanhamento das negociações no CRM, Como abordar os leads e Cliente Oculto.",
+          "keywords": ["vendas", "monitoramento performance", "geracao leads", "oportunidades", "time comercial", "taxa conversao", "crm", "cliente oculto"],
+          "context": "Quarto pilar da metodologia CHAVI focado em vendas e monitoramento"
+        },
+        {
+          "section_id": "chavi_inteligencia",
+          "title": "CHAVI - Pilar I (Inteligência de Dados)",
+          "content": "I - Inteligência de Dados: Geração de insights e interpretação dos dados por trás de cada campanha, garantindo melhores resultados das otimizações, BI e relatórios transparentes em tempo real. Lema: 'Menos achismo e mais dados'.",
+          "keywords": ["inteligencia dados", "insights", "interpretacao dados", "otimizacoes", "bi", "relatorios", "tempo real", "menos achismo"],
+          "context": "Quinto pilar da metodologia CHAVI focado em inteligência de dados"
+        },
+        {
+          "section_id": "diretor_performance",
+          "title": "Cargo: Diretor de Performance",
+          "content": "Responsável por otimização de processos e performance de resultados da equipe de gestores de tráfego. Direciona e organiza a equipe baseando a construção das campanhas à metodologia CHAVI, atrelando à construção do funil de vendas do cliente.",
+          "keywords": ["diretor performance", "otimizacao processos", "gestores trafego", "metodologia chavi", "funil vendas"],
+          "context": "Descrição do cargo e responsabilidades do Diretor de Performance"
+        },
+        {
+          "section_id": "gestor_projetos",
+          "title": "Cargo: Gestor de Projetos",
+          "content": "Responsável por organizar e distribuir as contas entre os times, realizando a gestão estratégica baseada em relacionamento e dados técnicos.",
+          "keywords": ["gestor projetos", "organizar contas", "distribuir times", "gestao estrategica", "relacionamento", "dados tecnicos"],
+          "context": "Descrição do cargo e responsabilidades do Gestor de Projetos"
+        },
+        {
+          "section_id": "gestor_trafego",
+          "title": "Cargo: Gestor de Tráfego",
+          "content": "Principal profissional responsável pela performance da conta do cliente, operando o gerenciador de anúncios, realizando reuniões estratégicas, definindo estratégias e apresentando relatórios. Responsável direto pela operação técnica das campanhas no gerenciador de anúncios, otimizando diariamente as campanhas para melhores resultados.",
+          "keywords": ["gestor trafego", "performance conta", "gerenciador anuncios", "reunioes estrategicas", "relatorios", "operacao tecnica", "otimizacao diaria"],
+          "context": "Descrição do cargo e responsabilidades do Gestor de Tráfego"
+        },
+        {
+          "section_id": "assistente_gestor",
+          "title": "Cargo: Assistente do Gestor de Tráfego",
+          "content": "Auxilia o gestor de tráfego nas atividades operacionais e suporte às campanhas.",
+          "keywords": ["assistente gestor", "atividades operacionais", "suporte campanhas"],
+          "context": "Descrição do cargo e responsabilidades do Assistente do Gestor de Tráfego"
+        },
+        {
+          "section_id": "customer_success",
+          "title": "Cargo: Customer Success",
+          "content": "Responsável pelo relacionamento direto com os clientes, realiza treinamentos, esclarece dúvidas e auxilia na comunicação entre cliente e squad.",
+          "keywords": ["customer success", "relacionamento clientes", "treinamentos", "duvidas", "comunicacao", "squad"],
+          "context": "Descrição do cargo e responsabilidades do Customer Success"
+        },
+        {
+          "section_id": "designer",
+          "title": "Cargo: Designer",
+          "content": "Responsável pela criação e edição de criativos (imagens e vídeos) para campanhas digitais.",
+          "keywords": ["designer", "criacao", "edicao", "criativos", "imagens", "videos", "campanhas digitais"],
+          "context": "Descrição do cargo e responsabilidades do Designer"
+        }
+      ]
+    }
+  ]
+}

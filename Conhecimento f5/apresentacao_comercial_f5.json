@@ -1,0 +1,653 @@
+{
+  "presentation_title": "F5 Estratégia - Aceleradora Digital",
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "logo_slide",
+      "content": {
+        "visual_description": "Logo da F5 em laranja sobre um fundo escuro."
+      }
+    },
+    {
+      "slide_number": 2,
+      "type": "introduction_hook",
+      "content": {
+        "main_text": "Você veio para uma reunião de marketing, correto?",
+        "partners_logos": [
+          "Meta Business Partner",
+          "Google Partner",
+          "RD STATION PARTNERS"
+        ]
+      }
+    },
+    {
+      "slide_number": 3,
+      "type": "value_proposition",
+      "content": {
+        "title": "O projeto aqui é de vendas!",
+        "keywords": [
+          "expansão",
+          "crescimento",
+          "faturamento",
+          "margem de lucro",
+          "investimento",
+          "pró-labore",
+          "dividendos",
+          "tempo livre"
+        ],
+        "subtitle": "esse é o resultado que queremos"
+      }
+    },
+    {
+      "slide_number": 4,
+      "type": "section_title",
+      "content": {
+        "title": "nossos projetos e cases de sucesso"
+      }
+    },
+    {
+      "slide_number": 5,
+      "type": "case_studies",
+      "content": [
+        {
+          "client": "OralUnic Franchising",
+          "results": "R$ 1 Milhão em vendas e taxa de conversão de 43%."
+        },
+        {
+          "client": "SHOPPING ITAGUAÇU",
+          "results": "Tráfego pago e reforço no posicionamento de marca."
+        },
+        {
+          "client": "ODONTO COMPANY",
+          "results": "Aumento de 28% nas vendas em 1 mês com Tráfego Pago."
+        },
+        {
+          "client": "nsc",
+          "results": "Acelerou as vendas em 486% e reduziu o custo em 72%."
+        },
+        {
+          "client": "intelbras",
+          "results": "Marketing institucional e a conexão com seu público global."
+        },
+        {
+          "client": "lisō Laser",
+          "results": "Aumentou as vendas em 63% com tráfego pago."
+        },
+        {
+          "client": "Gamaliel FACULDADE",
+          "results": "Mais de 600 matrículas e R$ 3,5 milhões em retorno recorrente."
+        },
+        {
+          "client": "Italínea MÓVEIS PLANEJADOS",
+          "results": "136 Leads alcançados e redução do custo por Lead para R$ 1,60."
+        }
+      ]
+    },
+    {
+      "slide_number": 6,
+      "type": "client_logos",
+      "content": {
+        "clients": [
+          "Johnny Rockets",
+          "Hard Rock Cafe",
+          "Oral Sin Implantes",
+          "AVHL SISTEMAS",
+          "PROIMOVEIS",
+          "Letuá RESTAURANT",
+          "ODONTO EXCELLENCE",
+          "Donatta PIZZARIA"
+        ]
+      }
+    },
+    {
+      "slide_number": 7,
+      "type": "about_us",
+      "content": {
+        "title": "quem somos?",
+        "achievements": [
+          "Especialista em Vendas no maior evento de marketing da América Latina, o RD Summit 2022.",
+          "Líder em trackeamento no Brasil.",
+          "Uma das 3 melhores agências de Growth Marketing no Brasil pelo prêmio PEPE da rede Oral Unic."
+        ]
+      }
+    },
+    {
+      "slide_number": 8,
+      "type": "section_title",
+      "content": {
+        "title": "oportunidades",
+        "subtitle": "identificadas para o seu negócio"
+      }
+    },
+    {
+      "slide_number": 9,
+      "type": "sales_cycle",
+      "content": {
+        "title": "ciclo de venda",
+        "steps": [
+          "Pessoas",
+          "Comportamento de compra na internet",
+          "Algoritmo define anúncios",
+          "Trackeamento",
+          "Formulário",
+          "Lead",
+          "Oportunidade em CRM",
+          "Cadência de atendimento",
+          "Venda"
+        ]
+      }
+    },
+    {
+      "slide_number": 10,
+      "type": "tracking_explanation",
+      "content": {
+        "title": "trackeamento",
+        "subtitle": "a base da performance",
+        "description": "O trackeamento permite impactar mais de uma vez quem passou pela sua estrutura digital e conversar com seu cliente em cada momento da jornada de compra."
+      }
+    },
+    {
+      "slide_number": 11,
+      "type": "marketing_funnel",
+      "content": {
+        "title": "funil de marketing f5",
+        "funnel_stages": [
+          {
+            "percentage": "30%",
+            "description": "não estão interessados"
+          },
+          {
+            "percentage": "30%",
+            "description": "acreditam que não estão interessados"
+          },
+          {
+            "percentage": "30%",
+            "description": "não estão pensando nisso"
+          },
+          {
+            "percentage": "6% a 7%",
+            "description": "estão abertos a comprar"
+          },
+          {
+            "percentage": "3%",
+            "description": ""
+          }
+        ],
+        "strategies": [
+          {
+            "name": "tráfego pago em vídeo e oferta",
+            "effects": [
+              "+ volume de leads",
+              "+ curiosos",
+              "- consciência",
+              "- confiança"
+            ]
+          },
+          {
+            "name": "trackeamento",
+            "actions": [
+              "viu vídeo",
+              "curtiu a página",
+              "baixou material",
+              "pesquisou no Google"
+            ]
+          },
+          {
+            "name": "remarketing",
+            "effects": [
+              "+ consciência",
+              "+ confiança",
+              "+ caro",
+              "+ vendas"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "slide_number": 12,
+      "type": "methodology_introduction",
+      "content": {
+        "title": "chavi",
+        "subtitle": "nossa metodologia exclusiva",
+        "validation": "Validado em + de 800 projetos no Brasil, Portugal, Itália e Angola.",
+        "metrics": [
+          {
+            "value": "+20 mil",
+            "description": "campanhas realizadas"
+          },
+          {
+            "value": "+R$ 10 milhões",
+            "description": "em mídia paga"
+          },
+          {
+            "value": "+R$ 100 milhões",
+            "description": "gerada nos últimos 4 anos."
+          }
+        ]
+      }
+    },
+    {
+      "slide_number": 13,
+      "type": "methodology_goal",
+      "content": {
+        "text": "Com a metodologia chavi criamos uma estrutura completa de canais de vendas online."
+      }
+    },
+    {
+      "slide_number": 14,
+      "type": "methodology_detail_c",
+      "content": {
+        "methodology": "chavi",
+        "step": "C",
+        "title": "campanha",
+        "items": [
+          "Pesquisa de Mercado",
+          "Definição de Público",
+          "Planejamento Estratégico com Mapa Mental",
+          "Criativos",
+          "Copys"
+        ]
+      }
+    },
+    {
+      "slide_number": 15,
+      "type": "attention_game",
+      "content": {
+        "title": "Jogo da atenção",
+        "principle": "Criativos não precisam ser bonitos, precisam chamar a atenção!",
+        "validation": "Formatos validados em mais de 800 empresas."
+      }
+    },
+    {
+      "slide_number": 16,
+      "type": "methodology_detail_h",
+      "content": {
+        "methodology": "chavi",
+        "step": "h",
+        "title": "humanização",
+        "items": [
+          "O vídeo converte e qualifica mais o lead para a compra.",
+          "Curadoria de vídeos por nossos especialistas.",
+          "Roteiros Personalizados.",
+          "Técnicas de Oratória e Manual de Gravação."
+        ]
+      }
+    },
+    {
+      "slide_number": 17,
+      "type": "methodology_detail_a",
+      "content": {
+        "methodology": "chavi",
+        "step": "a",
+        "title": "anúncios pagos com performance",
+        "platforms": ["Meta", "Google Ads", "YouTube", "TikTok"],
+        "description": "Trabalhamos com as principais plataformas de anúncios para garantir que sua empresa esteja onde o seu cliente está."
+      }
+    },
+    {
+      "slide_number": 18,
+      "type": "platform_detail_meta",
+      "content": {
+        "platform": "Meta (Facebook e Instagram)",
+        "description": "No Meta Ads, criamos campanhas direcionadas para o perfil do seu público, pagando pela visualização e aumentando a geração de leads.",
+        "advanced_segmentation": [
+          "Dados Demográficos (idade, localização, etc.)",
+          "Interesses e comportamentos de compra",
+          "Públicos Personalizados e Semelhantes"
+        ],
+        "ad_formats": [
+          "Imagens estáticas",
+          "Vídeos",
+          "Carrossel",
+          "Stories/Reels"
+        ]
+      }
+    },
+    {
+      "slide_number": 19,
+      "type": "platform_detail_google",
+      "content": {
+        "platform": "Google Ads",
+        "description": "A plataforma de alta intenção de compra. Com o Google, atingimos clientes no exato momento em que estão procurando soluções, aumentando as chances de conversão.",
+        "precise_segmentation": [
+          "Palavras-chave",
+          "Segmentação Demográfica",
+          "Remarketing",
+          "Negativação de palavras",
+          "Leilão"
+        ]
+      }
+    },
+    {
+      "slide_number": 20,
+      "type": "methodology_detail_v",
+      "content": {
+        "methodology": "chavi",
+        "step": "V",
+        "title": "vendas",
+        "subtitle": "monitoramento de performances",
+        "items": [
+          "Geração de Leads",
+          "Oportunidades para o seu time comercial",
+          "Taxa de Conversão por Etapa",
+          "Acompanhamento das negociações no CRM",
+          "Como abordar os leads e Cliente Oculto"
+        ]
+      }
+    },
+    {
+      "slide_number": 21,
+      "type": "methodology_detail_i",
+      "content": {
+        "methodology": "chavi",
+        "step": "i",
+        "title": "inteligência de dados",
+        "items": [
+          "A geração de insights e interpretação dos dados por trás de cada campanha é o que garante os melhores resultados das otimizações.",
+          "BI e Relatórios transparentes, em tempo real."
+        ],
+        "motto": "Menos achismo e mais dados"
+      }
+    },
+    {
+      "slide_number": 22,
+      "type": "metrics_report_example",
+      "content": {
+        "title": "Métricas por canal",
+        "general_metrics": [
+          {"metric": "impressões totais", "value": "255.227"},
+          {"metric": "alcance total", "value": "80.989"},
+          {"metric": "total de cliques no link", "value": "824"},
+          {"metric": "valor investido", "value": "R$ 1.958,69"},
+          {"metric": "CPC médio", "value": "R$ 2,38"},
+          {"metric": "CTR (taxa de cliques no link)", "value": "0,32%"},
+          {"metric": "CPM médio", "value": "R$ 7,67"},
+          {"metric": "frequência", "value": "3,15"},
+          {"metric": "custo por conversas iniciadas por mensagem", "value": "R$ 10,94"},
+          {"metric": "conversas iniciadas por mensagem", "value": "179"}
+        ],
+        "facebook_metrics": [
+          {"metric": "alcance no Facebook", "value": "47.589"},
+          {"metric": "impressões no Facebook", "value": "149.408"},
+          {"metric": "cliques no Facebook", "value": "1.807"},
+          {"metric": "valor investido no Facebook", "value": "R$ 996,77"}
+        ],
+        "instagram_metrics": [
+          {"metric": "alcance no Instagram", "value": "44.358"},
+          {"metric": "impressões no Instagram", "value": "105.349"},
+          {"metric": "cliques no Instagram", "value": "536"},
+          {"metric": "valor investido no Instagram", "value": "R$ 954,17"}
+        ]
+      }
+    },
+    {
+      "slide_number": 23,
+      "type": "success_metrics_definitions",
+      "content": {
+        "title": "métricas de sucesso em tráfego pago",
+        "metrics": [
+          {"name": "cpc (Custo por Clique)", "description": "Medindo a eficiência de cada clique."},
+          {"name": "ctr (Taxa de Clique)", "description": "Medindo a atratividade do seu anúncio."},
+          {"name": "cpl (Custo por Lead)", "description": "O custo para gerar um lead qualificado."},
+          {"name": "roi (Retorno sobre Investimento)", "description": "Medindo o retorno financeiro de cada."},
+          {"name": "alcance e impressões", "description": "A quantidade de pessoas impactadas pelos seus anúncios."},
+          {"name": "frequência", "description": "Quantas vezes o anúncio aparece para a mesma pessoa."}
+        ]
+      }
+    },
+    {
+      "slide_number": 24,
+      "type": "project_stages",
+      "content": {
+        "title": "etapas do projeto",
+        "stages": [
+          {"id": "f1", "name": "Implementação", "timeline": "1º mês"},
+          {"id": "f2", "name": "Planejamento de Marketing e definição dos KPIs", "timeline": "1º mês"},
+          {"id": "f3", "name": "Início da fase de aprendizado das campanhas", "timeline": "2º mês"},
+          {"id": "f4", "name": "Coleta de dados para otimização de Campanhas", "timeline": "2º mês"},
+          {"id": "f5", "name": "Escala de verba de mídia", "timeline": "3º mês"}
+        ]
+      }
+    },
+    {
+      "slide_number": 25,
+      "type": "market_value_breakdown",
+      "content": {
+        "title": "valor de mercado",
+        "items": [
+          {"service": "Implementação e Setup de Ferramentas", "value": 5000.00},
+          {"service": "Planejamento de Growth e Mídia Paga", "value": 10000.00},
+          {"service": "Gestor de Tráfego e Performance", "value": 6000.00},
+          {"service": "Gestor de Projetos", "value": 4000.00},
+          {"service": "Copywriting", "value": 3000.00},
+          {"service": "Suporte e Atendimento", "value": 2000.00}
+        ],
+        "total": 30000.00
+      }
+    },
+    {
+      "slide_number": 26,
+      "type": "closing_question",
+      "content": {
+        "question": "Quanto você pagaria agora para faturar R$100 mil a mais?"
+      }
+    },
+    {
+      "slide_number": 27,
+      "type": "section_title",
+      "content": {
+        "title": "planos e investimentos",
+        "subtitle": "Escolha o plano que se adapta às necessidades do seu negócio"
+      }
+    },
+    {
+      "slide_number": 28,
+      "type": "plan_details",
+      "plan_name": "f5 smart",
+      "content": {
+        "pricing": {
+          "media_investment": "Até R$ 2.000,00",
+          "agency_fee": "R$ 1.847,00"
+        },
+        "services": {
+          "smart_services": [
+            "Até 2x Atendimentos por Whatsapp por dia",
+            "1 Reunião por mês",
+            "Customer Success (CS)",
+            "Implementação",
+            "Trackeamento Completo",
+            "Planejamento de Campanha",
+            "Gestor de Tráfego (Técnico)",
+            "Acompanhamento de Vendas"
+          ],
+          "online_sales_course": [
+            "Curso Online de Vendas e abordagem de leads (Videoaulas)",
+            "Ebook de treinamento de abordagem de leads",
+            "Ebook de vendas",
+            "Aulas de oratória (Videoaulas)"
+          ],
+          "meta_ads": {
+            "note": "*escolha entre meta ou google ads",
+            "items": [
+              "Roteiros personalizados",
+              "Campanha de Meta Ads",
+              "Otimização semanal de campanhas",
+              "Relatórios em tempo real"
+            ]
+          },
+          "google_ads": {
+            "note": "*escolha entre meta ou google ads",
+            "items": [
+              "Campanha Google Ads",
+              "Otimização semanal de campanhas",
+              "Relatórios em tempo real"
+            ]
+          },
+          "landing_page": ["Landing Page Personalizada"]
+        }
+      }
+    },
+    {
+      "slide_number": 29,
+      "type": "plan_details",
+      "plan_name": "f5 pro",
+      "content": {
+        "pricing": {
+          "media_investment": "Até R$ 5.000,00",
+          "agency_fee": "R$ 2.847,00"
+        },
+        "services": {
+          "pro_services": [
+            "Até 2x Atendimentos por Whatsapp por dia",
+            "1 Reunião por mês",
+            "Customer Success (CS)",
+            "Implementação",
+            "Trackeamento Completo",
+            "Planejamento de Campanha",
+            "Gestor de Tráfego (Técnico)",
+            "Acompanhamento de Vendas",
+            "Gestor de Projetos"
+          ],
+          "online_sales_course": [
+            "Curso Online de Vendas e abordagem de leads (Videoaulas)",
+            "Ebook de treinamento de abordagem de leads",
+            "Ebook de vendas",
+            "Aulas de oratória (Videoaulas)"
+          ],
+          "meta_ads": [
+              "Roteiros personalizados",
+              "Campanha de Meta Ads",
+              "Otimização semanal de campanhas",
+              "Relatórios em tempo real"
+          ],
+          "google_ads": [
+              "Campanha Google Ads",
+              "Otimização semanal de campanhas",
+              "Relatórios em tempo real"
+          ],
+          "landing_page": ["Landing Page Personalizada"],
+          "digital_ad_pieces": ["Criativos estáticos (25 peças)"],
+          "crm": [
+            "CRM (Customer Relationship Management)",
+            "Integração dos leads com CRM"
+          ]
+        }
+      }
+    },
+    {
+      "slide_number": 30,
+      "type": "plan_details",
+      "plan_name": "f5 prime",
+      "content": {
+        "pricing": {
+          "media_investment": "Acima de R$ 5.000,00",
+          "agency_fee": "R$ 5.847,00"
+        },
+        "services": {
+          "prime_services": [
+            "Até 2x Atendimentos por Whatsapp por dia",
+            "1 Reunião por mês",
+            "Customer Success (CS)",
+            "Implementação",
+            "Trackeamento Completo",
+            "Planejamento de Campanha",
+            "Gestor de Tráfego (Técnico)",
+            "Acompanhamento de Vendas",
+            "Gestor de Projetos"
+          ],
+          "online_sales_course": [
+            "Curso Online de Vendas e abordagem de leads (Videoaulas)",
+            "Ebook de treinamento de abordagem de leads",
+            "Ebook de vendas",
+            "Aulas de oratória (Videoaulas)"
+          ],
+          "meta_ads": [
+              "Roteiros personalizados",
+              "Campanha de Meta Ads",
+              "Otimização semanal de campanhas",
+              "Relatórios em tempo real"
+          ],
+          "google_ads": [
+              "Campanha Google Ads",
+              "Otimização semanal de campanhas",
+              "Relatórios em tempo real"
+          ],
+          "landing_page": ["Landing Page Personalizada"],
+          "digital_ad_pieces": ["Criativos estáticos (25 peças)"],
+          "crm": [
+            "CRM (Customer Relationship Management)",
+            "Integração dos leads com CRM"
+          ],
+          "rd_marketing": [
+            "Setup RD Marketing",
+            "Conexão com CRM"
+          ],
+          "live_sales_training": [
+            "Script e cadência de atendimento",
+            "Treinamento de vendas one a one"
+          ]
+        }
+      }
+    },
+    {
+      "slide_number": 31,
+      "type": "plans_comparison",
+      "content": {
+        "title": "Comparativo de Planos",
+        "plans": {
+          "f5_prime": {
+            "serviços prime": true,
+            "curso online": true,
+            "meta ads": true,
+            "google ads": true,
+            "landing page": true,
+            "peças publicitárias": true,
+            "crm": true,
+            "rd marketing": true,
+            "treinamento ao vivo de vendas": true
+          },
+          "f5_pro": {
+            "serviços pro": true,
+            "curso online": true,
+            "meta ads": true,
+            "google ads": true,
+            "landing page": true,
+            "peças publicitárias": true,
+            "crm": true,
+            "rd marketing": false,
+            "treinamento ao vivo de vendas": false
+          },
+          "f5_smart": {
+            "serviços smart": true,
+            "curso online": true,
+            "meta ads*": true,
+            "google ads*": true,
+            "landing page": true,
+            "peças publicitárias": false,
+            "crm": false,
+            "rd marketing": false,
+            "treinamento ao vivo de vendas": false,
+            "note": "*escolha entre meta ou google ads"
+          }
+        }
+      }
+    },
+    {
+      "slide_number": 32,
+      "type": "special_offer",
+      "content": {
+        "title": "promoção especial!",
+        "offer": "indique agora e leve 20% de desconto!"
+      }
+    },
+    {
+      "slide_number": 33,
+      "type": "final_logo_slide",
+      "content": {
+        "company_name": "f5 estratégia",
+        "tagline": "aceleradora digital"
+      }
+    }
+  ]
+}
