@@ -1,0 +1,22 @@
+# Dependências para Dashboard Moderno F5
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Dependências extras para funcionalidades avançadas
+pillow>=10.0.0  # Para upload de imagens
+python-docx>=0.8.11  # Para upload de documentos Word
+PyPDF2>=3.0.0  # Para upload de PDFs
+wordcloud>=1.9.2  # Para nuvens de palavras
+seaborn>=0.12.0  # Para visualizações extras
+
+# Dependências do sistema F5 existente
+openai>=1.0.0
+google-generativeai>=0.3.0
+anthropic>=0.8.0
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.1
+google-auth-oauthlib>=1.1.0
+dash>=2.14.0
+dash-bootstrap-components>=1.5.0 
